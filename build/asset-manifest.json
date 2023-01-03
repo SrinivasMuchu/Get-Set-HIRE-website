@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ad31c37c.css",
+    "main.js": "/static/js/main.00353e43.js",
+    "static/js/787.810ff364.chunk.js": "/static/js/787.810ff364.chunk.js",
+    "static/media/workplace logo.png": "/static/media/workplace logo.a09293c3b9953669dc75.png",
+    "static/media/Ellipse.png": "/static/media/Ellipse.3bad08d007ebe5172220.png",
+    "static/media/pm.svg": "/static/media/pm.d1ad9cc2904d89abd536869310b298a1.svg",
+    "static/media/Group 334.png": "/static/media/Group 334.49a2a98ac278f92376e3.png",
+    "static/media/bussiness.svg": "/static/media/bussiness.6863230310b8a418cef0e819f101990a.svg",
+    "static/media/hr.svg": "/static/media/hr.4afe6546a901799a8cbb6475350cbf60.svg",
+    "static/media/marketing image.svg": "/static/media/marketing image.de92f2e1a4dc592d6e0d57f7ff901249.svg",
+    "static/media/design.svg": "/static/media/design.75389ca4be7139f9bdeb351cc0a5522d.svg",
+    "static/media/gov.svg": "/static/media/gov.70f609587dc50646a967c098e7f2ce2d.svg",
+    "static/media/customer.svg": "/static/media/customer.a979acab474f6c51cbfcab2ffbc15148.svg",
+    "index.html": "/index.html",
+    "static/media/finance.svg": "/static/media/finance.120ff63e3d6eea1ac4d44cd286efa05a.svg",
+    "main.ad31c37c.css.map": "/static/css/main.ad31c37c.css.map",
+    "main.00353e43.js.map": "/static/js/main.00353e43.js.map",
+    "787.810ff364.chunk.js.map": "/static/js/787.810ff364.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad31c37c.css",
+    "static/js/main.00353e43.js"
+  ]
+}
